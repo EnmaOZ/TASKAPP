@@ -163,5 +163,6 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 ## 🙌 Agradecimientos
 
 Agradecemos a:
-- *Universidad Nacional del Altiplano* por el soporte académico
+- *Universidad Nacional del Altiplano* por el soporte académico.
+- *OpenAI* por proporcionar la tecnología detrás de GPT.
 - *API de DNI Perú* por facilitar la integración de datos locales.
